@@ -1,0 +1,32 @@
+Principais metodos 
+
+concat() - concatena dois arrays 
+
+filter() 
+
+find() 
+
+findIndex()
+
+lastIndexOf() - mesmo que findIndex, mas começando do final para o começo.
+
+forEach()
+
+pop()
+
+shift() - retira o primeiro elemento do array.
+
+push()
+
+unshift() - adiciona na primeira posição e troca os índices dos elementos.
+
+reduce() 
+
+reduceRight() 
+
+reverse() 
+
+sort() - organiza o array (nao funciona corretamente para numeros)
+
+splice()
+
